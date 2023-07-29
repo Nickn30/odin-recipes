@@ -1,0 +1,34 @@
+body{
+    background-image: url(/home/student/Desktop/odin-links-and-images/images/goodfood.jpg);
+    
+
+    
+}
+
+h1 {
+    background-color: rgba(94, 180, 23, 0.5);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 5em;
+    width: fit-content;
+    margin: auto;
+    color: rgba(243, 243, 243, 0.8);
+}
+
+ul {
+    font-size: 1.5em;
+    line-height: 2;
+    color: rgba(16, 233, 128, 0.5);
+    background-color: rgba(230, 218, 225, 0.25);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: auto;
+    border: 10px solid red;
+    list-style-position: outside;
+    width: fit-content;
+    padding-right: 20px;
+
+}
+
+
