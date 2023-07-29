@@ -1,37 +1,35 @@
 body {
-    background-image: url(/home/student/Desktop/odin-links-and-images/images/tacoimage.jpg);
-    line-height: 2;
-    list-style-position: inside;
-    padding: 10%;
+      background-image: url(/home/student/repos/odin-recipes/tacoimage.jpg);
+      line-height: 2;
+      list-style-position: inside;
+      padding: 10%;
     
-}
+     }
 
 div {
     
-text-align: center;
-   margin: 3%;
+     text-align: center;
+     margin: 3%;
 
-   
-}
+    }
 
-p{
+p  {
     background-color: rgba(15, 36, 230, 0.25);
     color: rgb(61, 226, 28);
     text-align: center;
     font-size: 24px;
     font-family: 'Courier New', Courier, monospace;
-}
+   }
 
 ul {
-   font-size: 22px;
-   background-color: rgba(47, 17, 216, 0.25);
-   color:white; 
-   text-align: left;
-   margin: auto;
-   width: fit-content;
-   margin-bottom: 1rem;
-
-}
+    font-size: 22px;
+    background-color: rgba(47, 17, 216, 0.25);
+    color:white; 
+    text-align: left;
+    margin: auto;
+    width: fit-content;
+    margin-bottom: 1rem;
+   }
 
 ol {
     font-size: 22px;
@@ -41,7 +39,7 @@ ol {
     text-align: left;
     margin: auto;
     margin-bottom: 1rem;
-}
+   }
 
 h2 {
     color: rgb(10, 10, 10);
@@ -51,10 +49,7 @@ h2 {
     margin: auto;
     writing-mode: vertical-lr;
     text-orientation: upright;
-    
-    
-  
-}
+   }
 
 h1 {
     color: white;
@@ -65,5 +60,4 @@ h1 {
     writing-mode: vertical-lr;
     text-orientation: upright;
     margin-bottom: 1rem;
-    
-}
+   }

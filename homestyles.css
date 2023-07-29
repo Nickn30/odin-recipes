@@ -1,9 +1,6 @@
-body{
-    background-image: url(/home/student/Desktop/odin-links-and-images/images/goodfood.jpg);
-    
-
-    
-}
+body {
+      background-image: url(/home/student/repos/odin-recipes/goodfood.jpg);
+     }  
 
 h1 {
     background-color: rgba(94, 180, 23, 0.5);
@@ -14,7 +11,7 @@ h1 {
     width: fit-content;
     margin: auto;
     color: rgba(243, 243, 243, 0.8);
-}
+   }
 
 ul {
     font-size: 1.5em;
@@ -28,7 +25,6 @@ ul {
     list-style-position: outside;
     width: fit-content;
     padding-right: 20px;
-
-}
+   }
 
 
