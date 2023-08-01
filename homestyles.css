@@ -9,8 +9,9 @@ h1 {
     font-weight: bold;
     font-size: 5em;
     width: fit-content;
-    margin: auto;
+    margin: 20px auto;
     color: rgba(243, 243, 243, 0.8);
+    padding: 5px 5px; 
    }
 
 ul {
@@ -18,13 +19,19 @@ ul {
     line-height: 2;
     color: rgba(16, 233, 128, 0.5);
     background-color: rgba(230, 218, 225, 0.25);
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
-    margin: auto;
-    border: 10px solid red;
-    list-style-position: outside;
+    margin: 0 auto;
     width: fit-content;
-    padding-right: 20px;
+    padding-right: 2px;
+   }
+
+   li {
+    padding: 20px;
+    transform: rotateY(180deg);
+    list-style: lower-greek inside;
+   }
+
+   .burgers {
+    writing-mode: vertical-rl;
    }
 
 
